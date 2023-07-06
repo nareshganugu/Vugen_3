@@ -3,7 +3,7 @@ Action()
 {
 	
 
-	web_set_sockets_option("SSL_VERSION", "TLS1.2");
+//	web_set_sockets_option("SSL_VERSION", "TLS1.2");
 	
 //	web_add_header("Authorization", "Basic c2pvc2UzMDpwYXNz");
 	

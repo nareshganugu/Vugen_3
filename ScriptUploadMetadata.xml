@@ -14,9 +14,11 @@
     <FileEntry Name="VTS_RESTAPI_Bad_Varonis_Test.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="Body.dat" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="p_Password.dat" Filter="2" />
     <FileEntry Name="combined_VTS_RESTAPI_Bad_Varonis_Test.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="184525348440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -37,6 +39,7 @@
     <FileEntry Name="VTS_RESTAPI_Bad_Varonis_Test.prm.bak" Filter="1" />
     <FileEntry Name="VTS_RESTAPI_Stage.prm.bak" Filter="1" />
     <FileEntry Name="VTS_RESTAPI_Stage_Veronis_Test.prm.bak" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>
